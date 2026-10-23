@@ -1,4 +1,4 @@
-# FusionLoop
+# FusionLoop — AI Agent 时代的组织设计、岗位与激励研究
 
 ![FusionLoop — 组织、岗位与激励 2.0](assets/fusionloop-cover.svg)
 
@@ -19,7 +19,7 @@
 
 如果信息、知识和执行能够围绕共享结果直接协同，人应该承担什么责任，岗位如何保留专业归属，组织又应该奖励什么？
 
-**FusionLoop 是我对这些问题的一套组织研究。** 它从一项可验收的真实工作出发，把人类判断、Agent 执行、组织上下文和受控学习连接起来，再用运行证据检验组织、岗位与激励的变化。
+**FusionLoop 是一套关于 AI Agent、人机协作与组织设计的研究材料。** 仓库提供 37 页中文完整论文、双语导读和工作画布，供管理者、HR 与研究者讨论工作设计、岗位权责和激励机制。 它从一项可验收的真实工作出发，把人类判断、Agent 执行、组织上下文和受控学习连接起来，再用运行证据检验组织、岗位与激励的变化。
 
 | 组织 2.0 | 岗位 2.0 | 绩效与激励 2.0 |
 | :--- | :--- | :--- |
@@ -83,3 +83,4 @@
 
 **滕新阳 · Owen Teng** &nbsp; 人力资源管理 · 产品建设 · 组织学习  
 [关于作者](https://github.com/Owen-Teng) · [个人网站](https://tengxinyang.cn) · [提出问题或反例](https://github.com/Owen-Teng/fusionloop/issues) · [参与方式](CONTRIBUTING.md)
+

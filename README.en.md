@@ -1,4 +1,4 @@
-# FusionLoop
+# FusionLoop — Organizational design and work redesign for the age of AI agents
 
 ![FusionLoop — Organization, roles and incentives in the age of agents](assets/fusionloop-cover.svg)
 
@@ -14,7 +14,7 @@
 
 If information, knowledge and execution can coordinate directly around a shared outcome, what responsibilities should people retain? How should roles preserve professional homes? What should an organization reward?
 
-**FusionLoop is my research into these institutional questions.** It connects human judgment, agent execution, organizational context and controlled learning around an accepted business outcome. Operating evidence then informs changes to organization, roles and incentives.
+**FusionLoop is a research collection on AI agents, human–AI collaboration and organizational design.** It includes a 37-page Chinese paper, bilingual guides and practical canvases for managers, HR practitioners and researchers exploring work design, roles and incentives. It connects human judgment, agent execution, organizational context and controlled learning around an accepted business outcome. Operating evidence then informs changes to organization, roles and incentives.
 
 | Organization 2.0 | Roles 2.0 | Performance & incentives 2.0 |
 | :--- | :--- | :--- |
@@ -78,3 +78,4 @@ If net results fail to improve after review, rework and maintenance costs—or q
 
 **Owen Teng · 滕新阳** &nbsp; HR leadership · Product building · Organizational learning  
 [About the author](https://github.com/Owen-Teng) · [Website](https://tengxinyang.cn) · [Questions & counterexamples](https://github.com/Owen-Teng/fusionloop/issues) · [Contributing](CONTRIBUTING.md)
+
