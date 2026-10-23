@@ -1,16 +1,21 @@
-# Changes
+# Changes / 版本记录
 
-## 0.1 — 2026-10-23
+## 0.2 — 2026-10-23 · Paper-centered reconstruction
 
-Initial research kit:
+以作者提供的 37 页《Agent 时代下组织、岗位与激励》重新建立研究入口，修正 v0.1 将 FusionLoop 泛化为普通人机工作工具包的偏差。
 
-- English and Chinese introductions and core argument.
-- Fillable work canvas and cycle record.
-- A starter prompt for an existing agent.
-- A constructed research-brief example, including rejection and revision.
-- An essay on individual experience becoming organizational capability.
-- An evaluation approach, attribution, and participation guidance.
+- 原始 PDF 保持不变；新增全部 37 页文字、页面图像、17 张原图、来源清单与章节覆盖对照。
+- 默认中文研究首页与独立英文入口，统一视觉封面、核心主张与阅读路径。
+- 恢复组织／岗位／激励 2.0、六类责任、三类编译、20/10/70 工作容量假设、组织孪生图、四维贡献与继任。
+- 恢复十要素、受控自进化、一环三轨五阶、P2C2L 五道门、VKM 与员工权益。
+- 使用论文的客户解决方案与人才供给两个设计示例；旧研究简报 URL 保留替代说明。
+- 重写工作画布、周期记录、提示词与验证指南；新增权责、贡献、知识转化空白记录。
+- 区分 FridayOS 个人实践、团队架构、组织大脑方向与内部验证后才可能进入的战略延展。
 
-This version establishes a public method proposal. It includes no reported business-effect validation.
+This edition restores the full institutional hypothesis in the supplied paper. New guides, translations and tools are editorial adaptations. It adds **no claimed implementation, organizational-effect or product-validation results**. The source evidence cutoff remains 2026-08-21.
 
-首版提供中英双语方法、画布、周期记录、启动提示词、完整教学示例、组织学习短文与验证方法。本版没有报告已验证的业务效果。
+## 0.1 — 2026-10-23 · Superseded initial framing
+
+The initial bilingual kit framed FusionLoop too broadly as a human–agent work method and used a constructed research-brief example. It did not incorporate the author's full paper. Its framing and example are superseded by v0.2; Git history preserves the original files. No business-effect validation was reported.
+
+首版的方法概括和构造示例未充分反映作者论文，现由 v0.2 替代。历史文件保留在 Git 版本记录中。

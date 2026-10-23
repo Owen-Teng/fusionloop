@@ -1,39 +1,34 @@
-# How to decide whether FusionLoop is worth keeping
+# Evaluation and rollback
 
-[简体中文](evaluation.zh-CN.md) · [Cycle record](templates/cycle-record.md) · [Home](README.md)
+[Home](README.en.md) · [Full paper](paper/README.md) · [中文](evaluation.zh-CN.md)
 
-Choose bounded, recurring work. Specify task selection, quality requirements, stopping conditions, and the recipient before starting. Retain every included success, failure, and withdrawal.
+> Reading guide | Editorial adaptation of the source paper, pp. 7, 9–13, 28–29, 34–36. This is not new empirical evidence. The Chinese original governs interpretation.
 
-## Separate two questions
 
-| Condition | Working approach | Question |
+This table operationalizes the paper's judgment signals for readers. It is an editorial adaptation, not an implemented study, and adds no samples, effect sizes or statistical findings.
+
+## Define comparable work first
+
+Record outcome boundaries, demand difficulty, risk, acceptors, capacity, method version and time window. Establish baseline quality, cycle time, cost and human effort. Observe what changed in accountability, work design and agent allocation. A before/after average alone cannot establish an agent's causal effect.
+
+| Hypothesis | Necessary evidence | Counterexample or rollback signal |
 | --- | --- | --- |
-| T0 | Existing work, with actual effort and outcomes recorded | What is the baseline? |
-| T1 | Explicit outcomes, ownership, acceptance, recovery, and records; no additional agent intervention | Does work design itself help? |
-| T2 | Add a specified agent capability to T1 | What additional change comes from the agent? |
+| Shared outcomes may reduce relay costs | Handoffs, waiting, exceptions, accepted results and total effort | Owner overload, competing bosses, more coordination burden |
+| Three kinds of compilation may constrain scale | Blockages and repairs from intent to runnable work across all three layers | Additional compilation arrangements without reduced blockage or delivery cost |
+| Agents produce net improvement | Quality, risk, cycle time, review, rework, maintenance and recovery cost | Greater output but worse net outcomes |
+| Knowledge becomes organizational capability | Independent second-person takeover, acceptance and sustained reuse | Continued author rescue; maintenance exceeding benefit |
+| Incentives recognize real contributions | Results, independent reuse, handover time, maintenance and no double counting | Upload/call gaming, distrust or unrecognizable contributions |
+| Multiple Loops qualify as M4 | At least two M3 Loops, governed interfaces, cross-boundary responsibility and overall acceptance | Local success but overall failure, with no interface accountability |
+| Strategic extension is repeatable | Second Loop/team/customer quality, cost and willingness-to-pay evidence | Rebuilding data, permissions, processes and interfaces each time |
 
-Describe existing tools in T1, including any AI already in use. Do not attribute all T1-versus-T0 improvement to a new agent.
+## Seven risks belong in the review
 
-This is a comparison framework, not a guarantee of causal identification. Sequential work can be affected by learning, difficulty, staffing, and time. Where feasible, use randomized or interleaved comparable tasks with consistent acceptance. Otherwise report limited observations and alternative explanations. Repeating the same task may reward memory rather than the tool.
+Owner bottlenecks; competing bosses; hidden agent costs; incentive gaming; damaged trust in organizational context; professional skill erosion and inability to take over exceptions; and a product that remains bespoke consulting.
 
-## Observe the complete outcome
+## How evidence changes decisions
 
-- **Cycle time:** qualified input to acceptance, including waiting and rework.
-- **All human effort:** preparation, execution, review, coordination, repair, and maintenance.
-- **Quality and risk:** acceptance, important errors, rejection reasons, and boundary violations.
-- **Total cost:** tools, labor, maintenance, and recovery, using consistent definitions.
-- **Independent reuse:** whether a second person can deliver under comparable conditions and how much author support remains necessary.
+Record outcome, responsibility and execution tracks for the same cycle. Retain failures and non-improvements; explain missing data, concurrent process changes and task differences. Sponsors, Owners, acceptors and professional governors agree context-specific thresholds before operation. The paper supplies no universal return threshold or observation period.
 
-Agree denominators, time windows, and priorities before collecting results. A few cycles can show feasibility or early signals. There is no universal passing sample size; stronger causal claims require a design appropriate to task variability and decision risk.
+If multiple cycles fail to improve net results after review, rework and maintenance, or quality, fairness, succession and coordination burden deteriorate, **stop expansion, roll back work design or revise the hypothesis**. Technical operation, a successful demo or one person's fluency cannot replace this test.
 
-## What should weaken or change the proposal
-
-If disputes, waiting, and rework do not decline, examine unnecessary steps. If execution speeds up but review slows down, report the net change. If maintenance repeatedly consumes the benefits, simplify or stop. If another user cannot finish independently, keep reuse unvalidated.
-
-Stop and recover when predefined quality, permission, or irreversible-harm limits are breached. Average time savings do not cancel a breached requirement. “No clear improvement” is a valid outcome.
-
-## Evidence in this release
-
-Available: method argument, canvas, prompts, and a constructed example.
-
-Not established by this repository: real T0/T1/T2 comparisons, independent-reuse results, or organizational effects. Future reports should identify versions, scope, selection, actual records, and limitations. Document counts, agent calls, and self-assessment cannot substitute for those outcomes.
+[Cycle record](templates/cycle-record.md) · [Original risks](paper/full-text.zh-CN.md#page-35)

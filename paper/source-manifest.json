@@ -1,0 +1,285 @@
+{
+  "title": "Agent 时代下组织、岗位与激励",
+  "author": "滕新阳 / Xinyang (Owen) Teng",
+  "edition": "2026-08 / 外部审阅校订稿",
+  "evidence_cutoff": "2026-08-21",
+  "web_edition": "2026-10-23",
+  "source_pdf": "agent-era-organization-roles-incentives.zh-CN.pdf",
+  "source_sha256": "6449d8586a8a9acada20b502f8292dae5784f149de6a95f7a54fe9d4933640a5",
+  "page_count": 37,
+  "page_texts": [
+    {
+      "page": 1,
+      "text_sha256": "a81e29cd2898fc7a1e561eb694a99e34713661c5751a7340f2caf9f100bc4693",
+      "render": "pages/page-01.png"
+    },
+    {
+      "page": 2,
+      "text_sha256": "6ace50ebefb2d8c76313702d1fa88e139ea474e53801f05de7f7e9cffab5e9e0",
+      "render": "pages/page-02.png"
+    },
+    {
+      "page": 3,
+      "text_sha256": "2aedf38330e950384d35a1c1ae5d37f4edbaa4ab18a86479e58830306110e51a",
+      "render": "pages/page-03.png"
+    },
+    {
+      "page": 4,
+      "text_sha256": "6afc2073ab1b30201c25c4925f2590355ed652207e932406a342c64c44580b12",
+      "render": "pages/page-04.png"
+    },
+    {
+      "page": 5,
+      "text_sha256": "f3fb60b96f98e254fb6d6fcc4a3180a40113010362c6c2f562b3040920a457f6",
+      "render": "pages/page-05.png"
+    },
+    {
+      "page": 6,
+      "text_sha256": "5c0e9f3b2ae7b13b216e676f4e6632d608d5b2838f1defd37db863307e840010",
+      "render": "pages/page-06.png"
+    },
+    {
+      "page": 7,
+      "text_sha256": "35b279a79991e0f505927f6c07fc6b37ac28b351d4e18f0af62fc7c112b2870a",
+      "render": "pages/page-07.png"
+    },
+    {
+      "page": 8,
+      "text_sha256": "2875b735d2566fe43470071555f7f34a287064d9798bb84ba7e89edd24548749",
+      "render": "pages/page-08.png"
+    },
+    {
+      "page": 9,
+      "text_sha256": "535f8b9f6ebc8214b9326a792e6379793b5e87c456c05a0dadb485ee609d3db0",
+      "render": "pages/page-09.png"
+    },
+    {
+      "page": 10,
+      "text_sha256": "11aac229dde0cd363dc2de99f5d6d566ee510c791ef8b5a18dd8b97f62fed2b0",
+      "render": "pages/page-10.png"
+    },
+    {
+      "page": 11,
+      "text_sha256": "c48249e7b7123cf9c6c9f243d36056faed0b8909bc07e61029e01876ea387970",
+      "render": "pages/page-11.png"
+    },
+    {
+      "page": 12,
+      "text_sha256": "6be9951cc39167f6c5bb10e2958684eb3c9aec07620bcea5ca6fee0841cb6610",
+      "render": "pages/page-12.png"
+    },
+    {
+      "page": 13,
+      "text_sha256": "0924a0f2eeb4f718bf4496414ba074b07b55c7bd2cf7cd6b4ae9223c100a37bb",
+      "render": "pages/page-13.png"
+    },
+    {
+      "page": 14,
+      "text_sha256": "c6982b9f396b4a93f4453a4f1cbdb8916a8ed1b52607735c2212d762d3b10ece",
+      "render": "pages/page-14.png"
+    },
+    {
+      "page": 15,
+      "text_sha256": "3b0a810d8217ab1f7baee9ad1283b5579e2b7f7dffcf6a872979b8034dc5469b",
+      "render": "pages/page-15.png"
+    },
+    {
+      "page": 16,
+      "text_sha256": "52f7fb774e69e61d4c793d9bb21d1fc62442369b45f41cf8bab7fbb35eb1f7e6",
+      "render": "pages/page-16.png"
+    },
+    {
+      "page": 17,
+      "text_sha256": "903b331c3b5b1c0b980d86ff2b87648356a1786d1569c0d865e38a769aa4e5ec",
+      "render": "pages/page-17.png"
+    },
+    {
+      "page": 18,
+      "text_sha256": "eccab0fed00292b61df3cd69d1b77a4d3ebca81369c71e5951b17a5baadbeaf6",
+      "render": "pages/page-18.png"
+    },
+    {
+      "page": 19,
+      "text_sha256": "ef7e05bfdb79c5c781d58498f11bc9d862d5f8d85a26a2776e0e890cc07ac491",
+      "render": "pages/page-19.png"
+    },
+    {
+      "page": 20,
+      "text_sha256": "bb80436ac555395297252561f340e75ea273b06e3e9cdd10928c6607319eeeca",
+      "render": "pages/page-20.png"
+    },
+    {
+      "page": 21,
+      "text_sha256": "5186791ef59bcde9cd63224ca7a950cfc7371eb3c0882c91b61c53048a729c4b",
+      "render": "pages/page-21.png"
+    },
+    {
+      "page": 22,
+      "text_sha256": "971ed8abedea908790994389f6a17545f71dd5f3a07f9e361b749eec387d1296",
+      "render": "pages/page-22.png"
+    },
+    {
+      "page": 23,
+      "text_sha256": "50428aa9862c2d43b91d6eb84be21445042d0d25a9556cb03f065e38ee84de79",
+      "render": "pages/page-23.png"
+    },
+    {
+      "page": 24,
+      "text_sha256": "c9d7d9d62eed490dda6e053cc06f1075f4c17f874a5bf899b2550c6cd732c00d",
+      "render": "pages/page-24.png"
+    },
+    {
+      "page": 25,
+      "text_sha256": "173e2defbfa0838a83df3d2089dec1ea9576fc74c74d49743a1840e5ecc9bfeb",
+      "render": "pages/page-25.png"
+    },
+    {
+      "page": 26,
+      "text_sha256": "29da0ffc1436d503233300790874b65d23c14ab43b93e3fc7588e96fe89f5785",
+      "render": "pages/page-26.png"
+    },
+    {
+      "page": 27,
+      "text_sha256": "dcdb25a2f663273670d743a064afadb0d4ff5f5e730c30bcaeedf353b759d821",
+      "render": "pages/page-27.png"
+    },
+    {
+      "page": 28,
+      "text_sha256": "6f8cd0647579434979af58012ca51d186fb1bd82c4f14138dc79c05f8fb6b8e8",
+      "render": "pages/page-28.png"
+    },
+    {
+      "page": 29,
+      "text_sha256": "0da13a01f8fd21b27d3ac5e917f6ec5404439691d6de0e298ae4e1ce7e7b0e8d",
+      "render": "pages/page-29.png"
+    },
+    {
+      "page": 30,
+      "text_sha256": "f1ad6d853d0088fd2c5212463d43fb0d0ee788be572526e384bfb780bdf7adf5",
+      "render": "pages/page-30.png"
+    },
+    {
+      "page": 31,
+      "text_sha256": "7d26567fafc310ed054a2cf8a26d171348592da69cf1066c4037d3e3e6a6dd4a",
+      "render": "pages/page-31.png"
+    },
+    {
+      "page": 32,
+      "text_sha256": "d1e5ad5191348f1d6eed679a7e32af333d4f5353304a0bc1d479c830cc4fb343",
+      "render": "pages/page-32.png"
+    },
+    {
+      "page": 33,
+      "text_sha256": "a2b1f5a182373aef7c80cce8c1cfc39b3e6820ca9295830b1d754c3c4826a153",
+      "render": "pages/page-33.png"
+    },
+    {
+      "page": 34,
+      "text_sha256": "773496be6ce7165ff20062289f2499207f8e99f7ec0da9c282787ffb46969e19",
+      "render": "pages/page-34.png"
+    },
+    {
+      "page": 35,
+      "text_sha256": "fac91cb1492b782e2ef9f45865a93515cd6278e90561005682741738abf564ac",
+      "render": "pages/page-35.png"
+    },
+    {
+      "page": 36,
+      "text_sha256": "84cef94105d4ea0e129a3654991edcc59bcdd8633c59d1f9de710755560aaa72",
+      "render": "pages/page-36.png"
+    },
+    {
+      "page": 37,
+      "text_sha256": "8f71a27fa713e6de87d0c0fe98ae94c95c0de6eee6baaf1fe50da6e37969f8e9",
+      "render": "pages/page-37.png"
+    }
+  ],
+  "figures": [
+    {
+      "page": 5,
+      "file": "assets/paper/organization-roles-incentives.jpeg",
+      "sha256": "4ad0794da3b5e0eaf8c06769f759264901c68308ef3c69d088c2db647deb60a9"
+    },
+    {
+      "page": 8,
+      "file": "assets/paper/coordination-history.jpeg",
+      "sha256": "bf8740ecd10468e6196622a3112f9bc611636a4c29bbdb288a194f4d743cf9d2"
+    },
+    {
+      "page": 12,
+      "file": "assets/paper/research-signals.jpeg",
+      "sha256": "ff2634b9105beff1fd84cefcb31fd4e7455f59bda381e2c0b651fd7eddf03814"
+    },
+    {
+      "page": 12,
+      "file": "assets/paper/coordination-hypothesis.jpeg",
+      "sha256": "d9a191e82b2dc7a6e36c522b77246d284ab2faadf786e8dcd97c274628c64631"
+    },
+    {
+      "page": 14,
+      "file": "assets/paper/organization-design.jpeg",
+      "sha256": "28d00b2fcc300624e02d420e0327c6ca1a9a8914481a8ff19fa85df7e904e684"
+    },
+    {
+      "page": 16,
+      "file": "assets/paper/three-compilations.jpeg",
+      "sha256": "d402c2a51e4e96182c09f74ef88cd2ee0338a3f54a78f6dc6f4c57aeddb1fbf3"
+    },
+    {
+      "page": 16,
+      "file": "assets/paper/capacity-hypothesis.jpeg",
+      "sha256": "ed7bb4f4ba752f89cc15f16bc37bf5b8e1c0983d491927be0e1284063ada3a21"
+    },
+    {
+      "page": 18,
+      "file": "assets/paper/twin-maps.jpeg",
+      "sha256": "e7ad14b45c190e56ccda13ade3cc5da798165a41447ad21aa2969ed7b1f9800f"
+    },
+    {
+      "page": 19,
+      "file": "assets/paper/customer-solution.png",
+      "sha256": "4d2fc028a67c1ecb05d87f6f594d675ba80a59205611b27a9a5471198b08b789"
+    },
+    {
+      "page": 20,
+      "file": "assets/paper/talent-supply.jpeg",
+      "sha256": "4d6d539f1fa7080da2ec90b0692b2add4ba6bd7f9a5ce2ab9405500eebea7de4"
+    },
+    {
+      "page": 22,
+      "file": "assets/paper/four-contributions.jpeg",
+      "sha256": "d0871518f33a8cee84c9b8d2d46789ca29bdf3edd2851f482b6be935b2b27246"
+    },
+    {
+      "page": 25,
+      "file": "assets/paper/fusionloop.png",
+      "sha256": "11553df89628a59f24fa72ba9c9086e601d6cfa1e89955a2e5bf4496831bb4a6"
+    },
+    {
+      "page": 28,
+      "file": "assets/paper/learning-maturity.png",
+      "sha256": "40f60cec9a00e4866a5c7c486a74f9904f36bf1f24fdddb51758bf29e687e8b4"
+    },
+    {
+      "page": 30,
+      "file": "assets/paper/fridayos-personal.jpeg",
+      "sha256": "59b5a6c429cc5338f4f67e0221c3a45bfcf569fe56fc615ae920116177253fa1"
+    },
+    {
+      "page": 31,
+      "file": "assets/paper/team-architecture.jpeg",
+      "sha256": "55886e06fe3d62b8cd7bf04f7760d6d72b920bf255bc753f90b445fe31f0afa6"
+    },
+    {
+      "page": 32,
+      "file": "assets/paper/internal-evolution.jpeg",
+      "sha256": "18316b516f9706983110967f504981f2e4cf86b25a8191436c8c065617a88d39"
+    },
+    {
+      "page": 33,
+      "file": "assets/paper/team-intelligence-layer.jpeg",
+      "sha256": "162dc88f798dbaa2f5cd5f93b8edc548f62140d87edeb5db38ba6870ac6908c0"
+    }
+  ],
+  "note": "Original PDF unchanged. Text is a mechanical page-by-page extraction; figures are extracted without redrawing. Guides and templates are editorial adaptations, not additional empirical evidence."
+}

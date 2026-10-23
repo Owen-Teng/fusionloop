@@ -1,27 +1,49 @@
-# References and attribution
+# 来源、引用与再使用 / Sources and attribution
 
-[首页](README.zh-CN.md) · [Home](README.md)
+[研究首页](README.md) · [English home](README.en.md) · [原稿](paper/README.md)
 
-## Authorship and scope
+## 作者与版本
 
-FusionLoop is a method proposal by Owen Teng. The public kit develops the proposition that evidence from redesigned human–agent work should inform changes to roles, organization, and incentives. Its constituent ideas draw on existing practices of end-to-end ownership, human review, and continuous improvement; the kit does not claim sole invention of those practices.
+滕新阳（Xinyang / Owen Teng）。《Agent 时代下组织、岗位与激励：从工作重构到组织、岗位与激励 2.0》。外部审阅校订稿，2026 年 8 月。研究证据截至 2026-08-21。FusionLoop 网页整理版 v0.2，2026-10-23。
 
-The current release is a research proposal and teaching resource. Writing, translation, and preparation used AI assistance. That assistance is not independent validation of the method.
+FusionLoop 是作者提出的组织研究假设，连接既有的端到端责任、人类判断、专业治理与持续改进实践；不宣称这些组成思想全部为作者首次发明。网页导读、英文翻译与空白工具经 AI 辅助编辑，不构成独立验证。
 
-FusionLoop 由滕新阳提出。本公开版本将人机工作设计、责任、验收和跨周期学习组织为可讨论的方法。文字、翻译与制作使用了 AI 辅助；方法是否有效仍需真实工作验证。
+## 原稿列出的主要公开来源
 
-## Specific external sources
+以下书目按原稿第 37 页保留。12 个链接直接取自 PDF 的超链接；两项 IBM 条目在原稿该页未包含可提取网址，保留题名，不猜测地址。本次网页整理未重新核验全部外部资料的最新状态。
 
-| Source | Use in this kit | Boundary |
-| --- | --- | --- |
-| [Andrej Karpathy, LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), 4 April 2026 | Reference for the idea-file format and persistent knowledge compilation; source S3 in the example | Does not validate FusionLoop or establish organizational results |
-| [GitHub, Managing your profile README](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) | Source S1 for the example's profile-display capability | Does not establish reach or adoption |
-| [GitHub, Pinning items to your profile](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile) | Source S2 for the example's pinning capability | Does not establish an optimal publishing strategy |
+1. **Y Combinator** · [Building and Structuring an AI Native Company](https://www.youtube.com/watch?v=Z3JyAqh4ixg) · 2026。
+2. **Deloitte** · [Future-ready workforce: Preparing for work and skills disruption in the agentic enterprise](https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/consulting/2025/agentic-ai-enterprise-2028-infographic-new.pdf) · 2025。
+3. **Deloitte** · [Generation Agentic: The Path to Scale](https://www.deloitte.com/content/dam/assets-zone1/au/en/docs/about/2025/generation-agentic-ai-path-to-scale-2025-v2.pdf) · 2025。
+4. **Microsoft** · [2025: The Year the Frontier Firm Is Born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born) · 2025。
+5. **Accenture** · [Generating Impact: Harnessing frontier AI capabilities to unlock frontline productivity and growth in the UK](https://www.accenture.com/gb-en/insights/ai-data/generating-impact) · 2026。
+6. **The Quarterly Journal of Economics** · [Generative AI at Work](https://academic.oup.com/qje/article/140/2/889/7990658) · 2025。
+7. **Management Science** · [The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers](https://pubsonline.informs.org/doi/10.1287/mnsc.2025.00535) · 2026。
+8. **Manu Cornet** · [科技公司讽刺性组织图出处说明](https://www.globalnerdy.com/2011/07/03/org-charts-of-the-big-tech-companies-plus-an-enhancement/) · 2011。
+9. **Andrej Karpathy** · [Vibe Coding 原始讨论](https://x.com/karpathy/status/1886192184808149383) · 2025。
+10. **Shopify** · [AI at Shopify: an unserious exploration](https://www.shopify.com/news/unserious-exploration) · 2025。
+11. **Shopify** · [How we reward: Shopify compensation principles](https://www.shopify.com/news/how-we-reward) · 2026。
+12. **Klarna** · [Form F-1 Amendment No. 3](https://www.sec.gov/Archives/edgar/data/2003292/000200329225000024/klarnagroupplcf-1a3.htm) · 2025。
+13. **IBM** · AskHR 转型案例 · 官网案例，原稿记载访问于 2026 年 8 月。
+14. **IBM** · Embracing the future of HR: The AI-first enterprise · 官网文章，原稿记载访问于 2026 年 8 月。
 
-Sources checked on 23 October 2026. The kit links to originals and gives short paraphrases. It does not reproduce third-party source files, and makes no claim of affiliation or endorsement.
+## 证据层次与覆盖边界
 
-## Publication and reuse status
+- 原稿把独立研究、公司披露、预测、作者管理推论、第一方工具实践和产品构想分开。来源不是对 FusionLoop 完整制度的背书。
+- YC 对 2026 年底／2027 年初的设想是预测；其双 Agent 案例为内部披露，不是独立效果评估。
+- Manu Cornet 图是 2011 年讽刺性隐喻，不是这些公司的现行官方组织架构。
+- 企业生产率、FTE 工作量等价和估计节约不能改写为本研究已经实现的裁员、财务或组织结果。
+- 原稿所述 35 份核心材料、1,415 页、156 条来源条目、18 家企业案例和两组专家交流，是研究过程说明。本仓库未发布完整底层材料库或专家记录；上列 14 项是原稿的主要公开来源清单。
+- v0.1 曾把 Karpathy 的 LLM Wiki 作为发布形式参考。它不替代本论文的理论依据；当前版本以用户提供的完整论文为准。
 
-No repository-wide reuse license has been selected for this initial release. Public availability should not be read as a blanket license grant. Third-party materials retain their own terms. Questions about reuse can be raised with the author through this repository.
+## 建议引用格式 / Suggested citation
 
-本版尚未选定统一的再使用许可证；公开可读不等于已授予完整再许可。外部资料的权利归属保持原样。再使用问题可在仓库中向作者提出。
+Teng, X. (2026, August). *Agent 时代下组织、岗位与激励：从工作重构到组织、岗位与激励 2.0* [External-review revision; in Chinese]. FusionLoop. Evidence cutoff: 2026-08-21. [Original report](paper/agent-era-organization-roles-incentives.zh-CN.pdf).
+
+引用网页导读或工具时，请同时注明 FusionLoop web edition v0.2（2026-10-23），并区别于原始论文。
+
+## 再使用与权利
+
+本仓库尚未选择统一再使用许可证。公开可读不等于授予全部内容的再许可；论文中的第三方图像与资料保留原有权利和署名。再使用问题请向作者提出。
+
+No repository-wide reuse license has been selected. Public availability is not a blanket license grant. Third-party materials retain their rights and attribution. The English guides are editorial translations of the Chinese research, not independent validation or endorsement by referenced institutions.

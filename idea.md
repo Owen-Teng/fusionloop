@@ -1,56 +1,42 @@
-# FusionLoop: from completed tasks to accepted outcomes
+# Core hypothesis: from information relay to shared outcomes
 
-[简体中文](idea.zh-CN.md) · [Home](README.md)
+[Home](README.en.md) · [Full paper](paper/README.md) · [中文](idea.zh-CN.md)
 
-A manager needs a research brief to support a decision. An agent finds sources and produces a polished report. The recipient discovers that it mixes dates, treats interpretation as fact, and does not answer the original question. Text generation has finished; much of the work remains.
+> Reading guide | Editorial adaptation of the source paper, pp. 4–13, 35–36. This is not new empirical evidence. The Chinese original governs interpretation.
 
-This motivates my proposal: use the complete, accepted outcome as the unit of human–agent work. Include execution, accountability, judgment, acceptance, and learning in that unit. I call this approach **FusionLoop**.
 
-## What a loop owns
+## The proposition
 
-A loop starts with an identifiable event and ends when an authorized recipient accepts a defined outcome. Its owner coordinates people, agents, reusable methods, and systems within an agreed mandate. People retain consequential judgments. Exceptions have an escalation and recovery path. Reviewed experience informs the next cycle.
+**Redesign work. Let real operating results reshape organization, roles and incentives.**
 
-“Generate a report” is a task. “Deliver a source-checkable brief that answers a defined decision question and is accepted by its recipient” can be a loop outcome. Keep the boundary specific: the author of a brief does not own every subsequent business result.
+Agents may change the medium of organizational coordination. Within clearly bounded work, shared outcomes, organizational context, permissions and operating evidence may support direct human–agent collaboration where people previously relayed information through hierarchies. This is the author's **organizational hypothesis**, not a validated organizational outcome.
 
-## Eight necessary conditions
+![Original figure 3: the coordination-medium hypothesis](assets/paper/coordination-hypothesis.jpeg)
 
-1. **A clear trigger.** What starts the work, and when are the inputs ready?
-2. **A defined outcome.** Who receives what acceptable change, without duplicating another loop's result claim?
-3. **An accountable owner.** One person integrates the outcome within an explicit mandate.
-4. **Explicit responsibilities.** Which actions belong to people, agents, reusable methods, and systems?
-5. **Human judgment.** Which interpretations, commitments, and professional decisions return to authorized people?
-6. **Exception handling.** When must work stop, who handles escalation, and how is a usable state recovered?
-7. **Acceptance.** An authorized recipient accepts or rejects the result against criteria agreed in advance.
-8. **Learning across cycles.** Successes, failures, human effort, and reasons for change inform reviewed updates to knowledge or method.
+<sub>Source pp. 12–13. An author hypothesis, not an implemented organizational model at a particular company.</sub>
 
-The [work canvas](templates/loop-canvas.md) makes these conditions concrete. Shorten it for simple work. Reduce the design if coordination costs outweigh its value.
+## From hypothesis to institutions
 
-## Responsibility stays with people
+1. **Organization 2.0:** stable business/product/function units retain long-term context; selective capability centers or professional communities build reusable capabilities; dynamic teams assemble around complete outcomes. Business, technology and HR perform three kinds of compilation.
+2. **Roles 2.0:** formal roles retain authority, qualifications, grade, compensation and professional homes. A work-operation map shows actual tasks, human judgment and agent execution. Evidence across cycles informs changes to the formal role system.
+3. **Performance and incentives 2.0:** distinguish direct results, verified cross-team reuse, talent development/succession and agent/capability assets. Evaluation methods and timing depend on responsibility, controllability and evidence maturity.
 
-The owner integrates inputs, expertise, exception handling, and delivery. A sponsor sets value, authority, and resources. Professionals retain their judgments. Line managers manage capacity and development. Recipients assess outcomes. Small teams may combine roles, but the executor should not monopolize interpretation, execution, and the declaration of success.
+**FusionLoop carries real work; one cycle, three tracks and five stages organize learning; P2C2L and VKM govern knowledge transfer; FridayOS is one possible technical carrier.** These occupy different layers and do not validate one another.
 
-An individual can practice the structure and explicitly label their review as self-review. Without independent acceptance, that practice does not establish a complete team-level validation.
+## Why complete accountability matters
 
-Agents carry out authorized actions. Asking a model to summarize, suggest options, or perform checks does not transfer accountability to it.
+Delegating information processing and execution does not automatically create organizational capability. A Sponsor, end-to-end Loop Owner, capability supply, protected professional judgment, independent acceptance, escalation and controlled writeback remain necessary. A Loop can learn cyclically; it cannot grant itself governing authority.
 
-## How learning reaches the next cycle
+FusionLoop requires four changes together: manage a complete outcome; combine human and agent execution; integrate under one Owner while retaining professional vetoes; and use operating evidence to update rules and capabilities through review. A circular diagram or an added agent alone does not meet this definition.
 
-Suppose a brief changes “can be published” into “will attract users.” A reviewer rejects the inference. Correcting the sentence fixes this instance. Adding a check that distinguishes platform capability from adoption evidence may improve the next instance.
+## What the external evidence supports
 
-That new check also needs evaluation. If it adds paperwork without reducing mistakes, simplify or remove it. Maintenance effort belongs in the cost of learning.
+The paper connects research on work redesign, human–agent collaboration, institutional governance and capability platforms. It also limits the inference: task productivity cannot directly establish job removal, departmental downsizing or organizational value. Predictions, corporate disclosures, individual internal cases and independent studies remain distinct.
 
-## Relationship to existing methods
+The author reports a research base of 35 core materials totaling 1,415 pages, 156 source entries (133 public), 18 company cases and two expert-conversation series. These describe the research process. This repository contains the **37-page paper and its 14 listed principal public sources**, not the entire underlying collection or expert records.
 
-End-to-end processes, process ownership, project management, and continuous improvement already emphasize outcomes and feedback. FusionLoop combines agent boundaries, context permissions, human judgment, independent acceptance, recovery, and controlled learning in one working agreement.
+## What could refute it
 
-The proposal concerns the usefulness of this combination; it does not claim that its components are all original. Keep an existing process and its name when it already provides these conditions.
+Owner overload, competing bosses, increased review/maintenance cost, metric gaming, damaged employee trust and professional skill erosion could undermine the design. If net outcomes and institutional quality fail to improve over multiple cycles, stop expansion, roll back the design or revise the hypothesis.
 
-## What would change my mind
-
-The proposal loses support in a setting where it does not reduce waiting, rework, or disputes; review and maintenance consume the benefits of agents; or a second user still needs the original author's continuous help.
-
-Real execution, acceptance, reuse, and correction must connect a documented method to an organizational capability. See [evaluation](evaluation.md) for a comparison design.
-
-My management proposition is that evidence about how work gets done should inform changes to roles and organization. A demonstration alone cannot settle people's responsibilities, development, or employment arrangements.
-
-**Next: [map one piece of work](templates/loop-canvas.md), or [follow the worked example](examples/research-brief.md).**
+[Original argument](paper/full-text.zh-CN.md#page-04) · [Organization design](docs/organization.md) · [Evaluation and counterexamples](evaluation.md)

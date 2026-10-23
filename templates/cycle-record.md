@@ -1,32 +1,34 @@
-# Record one work cycle
+# One cycle and three evidence tracks
 
-[简体中文](cycle-record.zh-CN.md) · [Canvas](loop-canvas.md) · [Evaluation](../evaluation.md)
+[Home](../README.en.md) · [Full paper](../paper/README.md) · [中文](cycle-record.zh-CN.md)
 
-Default status: not run. Mark missing observations as unrecorded; do not reconstruct invented timings, sign-offs, or outcomes.
+> Blank tool | Editorial adaptation of the source paper, pp. 24–29, 35. Blank fields are not evidence of authorization, operation or validation. The Chinese original governs interpretation.
 
-| Field | Record |
-| --- | --- |
-| Cycle ID and canvas version | To be completed |
-| Task source and selection | Include the rules for difficult tasks, failures, and withdrawals |
-| Inputs, source dates, and scope | To be completed |
-| Comparison condition | Existing work / explicit ownership and criteria / agents added; or another specified design |
-| Start, finish, pauses, and waiting | Unrecorded |
-| Human effort | Include preparation, execution, review, rework, and maintenance |
-| Tools, versions, and direct cost | Unrecorded |
-| Deliverable and revisions | To be completed |
-| Exceptions, returns, and handling | To be completed |
-| Acceptance criteria and checks | To be completed |
-| Recipient, time, and original decision | Not accepted; record acceptance, return, or stop and reason |
-| Outcome and limits | Not observed |
-| Proposed method change | May be “no change needed” |
-| Approver, effective version, and reversal | Not approved |
-| Next reuse and independent user | To be evaluated |
 
-## What this result supports
+Loop/version ___; cycle ID ___; start/end ___; Owner ___; recorder ___; real operation/demo/design ___.
 
-- Direct observation: to be completed.
-- Possible explanations, including other influences: to be completed.
-- Conclusions not supported: to be completed.
-- Next check: to be completed.
+## Outcome track
 
-Share only authorized, de-identified records. The record supports work improvement; it does not directly determine individual performance or employment decisions.
+Trigger/task difficulty ___; promised outcome ___; actual outcome ___; acceptor ___; acceptance/rejection and evidence ___; quality/downstream impact ___.
+
+## Responsibility track
+
+Sponsor delegation/capacity ___; decision-maker, time and evidence at each gate ___; professional vetoes ___; exceptions/responses ___; arbitration ___; independent acceptance/takeover ___.
+
+## Execution track
+
+People, sources, context, Skills, agents, tools and versions ___; actual execution ___; failures/deviations/takeover ___; evidence locations for successes and failures ___.
+
+## Full cost and comparison
+
+Cycle time ___; human execution ___; waiting/coordination ___; review ___; rework ___; maintenance ___; recovery ___; tools/resources ___. Baseline ___; task/scope/concurrent changes ___; unresolved attribution ___.
+
+## Controlled learning
+
+Problem ___ → proposed repair ___ → authorized review ___ → tests/failure checks ___ → released version ___ → rollback ___ → actual next-cycle verification ___.
+
+Label an untested repair “awaiting validation.” A completed review is not an improved outcome.
+
+## Capability and institutional changes
+
+M0/M1/M2/M3 qualification and evidence ___; for M4, at least two M3 Loops, governed interfaces and overall acceptance ___. Non-author takeover ___; verified reuse ___; proposed role/capacity/evaluation changes ___; further authorization needed ___.
