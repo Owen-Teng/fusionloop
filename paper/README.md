@@ -17,6 +17,10 @@
 - **[章节覆盖对照](coverage.md)**：原稿每一部分在仓库中的位置。
 - **[主要公开来源与引用](../references.md)**：保留原稿 14 项主要公开来源和研究边界。
 
+## 配套阅读资料
+
+[25 项公开资料与三条阅读路径](../reading/README.md) · [中文导览 PDF](../reading/research-companion.zh-CN.pdf)
+
 ## 按原稿顺序阅读
 
 | 内容 | 原稿页码 | 网页导读 |

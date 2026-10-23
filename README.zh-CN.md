@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="paper/README.md"><b>阅读完整论文 →</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/Owen-Teng/fusionloop/releases/download/v0.3-reading/FusionLoop-Reading-Companion-v0.3.zip"><b>下载配套阅读包</b></a> &nbsp; · &nbsp;
   <a href="idea.zh-CN.md">理解核心假设</a> &nbsp; · &nbsp;
   <a href="README.en.md">English</a>
 </p>
@@ -61,6 +62,14 @@
 [十要素工作画布](templates/loop-canvas.zh-CN.md) · [组织权责约定](templates/governance-compact.zh-CN.md) · [周期证据记录](templates/cycle-record.zh-CN.md) · [贡献与复用记录](templates/contribution-record.zh-CN.md) · [P2C2L 知识转化记录](templates/knowledge-transfer.zh-CN.md)
 
 这些是依据论文整理的可填写工具。先把结果、权责、验收和证据写清楚，再判断是否值得开展真实尝试。[查看验证与回退标准 →](evaluation.zh-CN.md)
+
+## 配套阅读，把研究带走
+
+**25 项精选材料，三条阅读路径：工作重构的证据与反例、组织治理、岗位与激励。**
+
+阅读包包含完整论文、中文导览、三篇主题导读、五组双语模板，以及一份开放许可的 METR 原始研究。其他报告通过官方入口阅读，每一项都说明与研究的关系和适用边界。
+
+[**下载阅读包 ZIP →**](https://github.com/Owen-Teng/fusionloop/releases/download/v0.3-reading/FusionLoop-Reading-Companion-v0.3.zip) &nbsp; · &nbsp; [浏览阅读资料区 →](reading/README.md) &nbsp; · &nbsp; [中文导览 PDF →](reading/research-companion.zh-CN.pdf)
 
 ## 研究状态与开放问题
 

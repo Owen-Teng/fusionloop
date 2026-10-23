@@ -36,11 +36,15 @@ FusionLoop 是作者提出的组织研究假设，连接既有的端到端责任
 - 原稿所述 35 份核心材料、1,415 页、156 条来源条目、18 家企业案例和两组专家交流，是研究过程说明。本仓库未发布完整底层材料库或专家记录；上列 14 项是原稿的主要公开来源清单。
 - v0.1 曾把 Karpathy 的 LLM Wiki 作为发布形式参考。它不替代本论文的理论依据；当前版本以用户提供的完整论文为准。
 
+## 精选延伸阅读 · v0.3
+
+新增 [25 项配套公开材料](reading/README.md)，包含三篇中文导读、官方来源入口及按 CC BY 4.0 分发的 METR v2 原文。它是从研究资料中精选的阅读入口，不是上述完整底层资料库。原稿 14 项书目继续保留其原有版本语境。
+
 ## 建议引用格式 / Suggested citation
 
 Teng, X. (2026, August). *Agent 时代下组织、岗位与激励：从工作重构到组织、岗位与激励 2.0* [External-review revision; in Chinese]. FusionLoop. Evidence cutoff: 2026-08-21. [Original report](paper/agent-era-organization-roles-incentives.zh-CN.pdf).
 
-引用网页导读或工具时，请同时注明 FusionLoop web edition v0.2（2026-10-23），并区别于原始论文。
+引用网页导读或工具时，请同时注明 FusionLoop web edition v0.3（2026-10-23），并区别于原始论文。
 
 ## 再使用与权利
 

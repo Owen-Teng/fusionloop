@@ -1,5 +1,15 @@
 # Changes / 版本记录
 
+## 0.3 — 2026-10-23 · Research companion
+
+- 增加 25 项精选公开材料的分主题目录、官方入口、证据类型与适用边界。
+- 增加三篇中文主题导读、一份排版导览 PDF 和解压即读的离线入口。
+- 按 CC BY 4.0 随包提供未经修改的 METR arXiv v2 原文；其余外部报告保留官方链接。
+- 发布阅读包：作者原始论文、导读、目录、METR 原文、五组双语模板及文件校验清单。
+- 首页增加明显的阅读包下载与阅读资料区入口；原论文和原图保持不变。
+
+This release adds a curated reading companion. It does not change the original paper's evidence cutoff or claim new empirical validation.
+
 ## 0.2 — 2026-10-23 · Paper-centered reconstruction
 
 以作者提供的 37 页《Agent 时代下组织、岗位与激励》重新建立研究入口，修正 v0.1 将 FusionLoop 泛化为普通人机工作工具包的偏差。

@@ -4,7 +4,7 @@
 
 <p align="center"><b>Redesign work. Let real operating results reshape organization, roles and incentives.</b></p>
 
-<p align="center"><a href="paper/README.md"><b>Read the full paper →</b></a> &nbsp; · &nbsp; <a href="idea.md">Explore the hypothesis</a> &nbsp; · &nbsp; <a href="README.md">简体中文</a></p>
+<p align="center"><a href="paper/README.md"><b>Read the full paper →</b></a> &nbsp; · &nbsp; <a href="https://github.com/Owen-Teng/fusionloop/releases/download/v0.3-reading/FusionLoop-Reading-Companion-v0.3.zip"><b>Download reading package</b></a> &nbsp; · &nbsp; <a href="idea.md">Explore the hypothesis</a> &nbsp; · &nbsp; <a href="README.md">简体中文</a></p>
 
 <p align="center"><sub>Owen Teng · 滕新阳 / 37-page research report / August 2026 external-review revision<br>Evidence cutoff: 21 August 2026 · A research hypothesis open to practical refutation</sub></p>
 
@@ -57,6 +57,14 @@ Business intent must become an outcome definition; technical design must make th
 [Ten-element canvas](templates/loop-canvas.md) · [Governance compact](templates/governance-compact.md) · [Cycle evidence](templates/cycle-record.md) · [Contribution record](templates/contribution-record.md) · [P2C2L transfer record](templates/knowledge-transfer.md)
 
 These fillable tools are editorial adaptations of the paper. Define outcomes, authority, acceptance and evidence before deciding to run a trial. [Evaluation and rollback criteria →](evaluation.md)
+
+## Take the research with you
+
+**25 curated sources, three reading paths:** evidence and counterexamples, organization and governance, roles and incentives.
+
+The package includes the original paper, a Chinese reading-guide PDF, three thematic briefs, five bilingual template pairs and one openly licensed METR paper. The other external reports remain official links with reading notes and limits.
+
+[**Download ZIP →**](https://github.com/Owen-Teng/fusionloop/releases/download/v0.3-reading/FusionLoop-Reading-Companion-v0.3.zip) · [Explore the companion →](reading/README.en.md)
 
 ## Status and open questions
 
